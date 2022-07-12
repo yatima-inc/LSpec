@@ -1,5 +1,6 @@
 import Lean
 
+open Lean
 /--
 A variant of `Decidable` for tests. In the failing case, it may contain an
 explanatory message.
